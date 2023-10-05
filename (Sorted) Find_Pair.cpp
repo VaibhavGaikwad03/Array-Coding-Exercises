@@ -10,7 +10,7 @@ void find_pair(int *Arr, int n, int k)
 {
 	int i = 0, j = n - 1;
 
-	while (i != j)
+	while (i < j)
 	{
 		if (k < Arr[i] + Arr[j])
 			j--;
