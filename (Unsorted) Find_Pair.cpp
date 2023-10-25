@@ -1,7 +1,7 @@
 // find pair a + b == k
 // efficient for space complexity
 // don't give duplicate numbers as input
-
+ 
 #include <iostream>
 using std::cout;
 using std::endl;
